@@ -47,6 +47,14 @@ A PVNet project that uses a button to trigger a sound for animatronics. Built fo
 
 8. Press the button to play the sound.
 
+## Abstract
+
+blep
+
+
+
+
+
 ### Team:
 Tiffany Lin - Project Lead, Author of Board design/firmware/schematics  
 Arthur Chou - Case and Handle Designer in Fusion360  
