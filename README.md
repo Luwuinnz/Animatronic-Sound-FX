@@ -1,8 +1,9 @@
 # Animatronic-Sound-FX
 A PVNet project that uses a button to trigger a sound for animatronics. Built for a Halloween event.
 
+## Materials:
 
-
+## How to implement:
 
 ### Team:
 Tiffany Lin - Project Lead, Author of Board design/firmware/schematics  
