@@ -26,7 +26,7 @@ A PVNet project that uses a button to trigger a sound for animatronics. Built fo
 
 3. Follow the provided Fritzing diagram to wire the device board.
 
-<img width="556" height="431" alt="image" src="https://github.com/user-attachments/assets/3f5204d5-4895-4973-a43e-bc674e68a90e" />
+![Fritzing diagram for wiring.](audio_proj.png)
 
 
    **Check wiring functionality:**
