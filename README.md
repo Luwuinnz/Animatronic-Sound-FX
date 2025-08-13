@@ -49,10 +49,7 @@ A PVNet project that uses a button to trigger a sound for animatronics. Built fo
 
 ## Abstract
 
-blep
-
-
-
+The Animatronic-Sound-FX system is a compact, event-ready audio trigger designed for use in animatronics, developed as part of the PVNet Halloween event. The device employs an Arduino Nano microcontroller paired with a DFPlayer Mini MP3 module to play preloaded audio files from a microSD card when activated by a physical button. The design supports interchangeable 3.5 mm jack connections for modularity, allowing quick swaps of input triggers or speakers. The hardware configuration includes resistors for signal conditioning, a durable trigger mechanism, and a custom case for protection and ease of deployment. Implementation involved custom firmware using the DFPlayer Mini Fast library, schematic design, and precise soldering for long-term reliability. This solution enables immersive, synchronized sound effects for animatronic displays, offering low cost, portability, and adaptability for various themed events.
 
 
 ### Team:
