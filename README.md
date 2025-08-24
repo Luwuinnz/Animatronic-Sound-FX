@@ -58,8 +58,15 @@ The hardware features a **custom protective case** for durability and quick setu
 ---
 
 ## Results
-- **Video Demo:** `Project demo.MOV`  
+- **Video Demo:**
+![Video Demonstration of Device](Video_Demo.mov)
 - **Pictures:**
+<img width="877" height="659" alt="image" src="https://github.com/user-attachments/assets/3986d086-3438-4b4b-88cb-7d552b578645" />
+<img width="877" height="659" alt="image" src="https://github.com/user-attachments/assets/1709b222-c96d-464c-ac94-db9e56aad313" />
+<img width="877" height="659" alt="image" src="https://github.com/user-attachments/assets/156eca31-6ac2-4cf0-9a9a-839f408dcb71" />
+<img width="877" height="659" alt="image" src="https://github.com/user-attachments/assets/d27c6bc6-9004-424e-bcc5-20db3f925f30" />
+
+
  
 - **Blueprints / Whiteboard Design:**
 
